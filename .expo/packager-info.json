@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": 19006,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5420,
+  "expoServerNgrokUrl": "https://us-k7f.anonymous.cryptoapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.us-k7f.anonymous.cryptoapp.exp.direct",
+  "ngrokPid": 7152
+}
